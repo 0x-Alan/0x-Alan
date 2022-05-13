@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alan</h1>
-<h3 align="left">An aspiring Software/Blockchain Developer from Toronto.</h3>
+<h3 align="left">An aspiring Software/Blockchain Developer based in Toronto.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x-alan&label=Profile%20views&color=0e75b6&style=flat" alt="0x-alan" /> </p>
 
