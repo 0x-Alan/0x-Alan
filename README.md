@@ -16,8 +16,3 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a> 
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x-alan&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="0x-alan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x-alan&show_icons=true&locale=en&theme=dark&count_private=true&show=stars,prs,issues,contribs&include_all_commits" alt="0x-alan" /></p>
-
